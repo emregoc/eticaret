@@ -1,0 +1,94 @@
+@charset "utf-8";
+#ust {
+	background-color: #CCC;
+	height: 100px;
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+	font-size: 14px;
+	text-align: right;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+#icerik {
+	font-size: 16px;
+}
+#icerik {
+	font-size: 10px;
+}
+#font {
+	font-size: 14px;
+}
+#yeni {
+}
+a:link {
+	color: #003277;
+	font-family:Verdana, Geneva, sans-serif;
+	text-decoration:none;
+	font-size: 14px;
+}
+a:visited {
+	color: #900;
+	font-family:Verdana, Geneva, sans-serif;
+	text-decoration:none;
+	font-size: 14px;
+}
+.yeni_link {
+	color:#900;
+	font-family:Verdana, Geneva, sans-serif;
+	text-decoration:none;
+	font-size: 14px;
+    
+
+.yeni_link:visited {
+    color: #900;
+    font-family:Verdana, Geneva, sans-serif;
+    text-decoration:none;
+   }
+}
+.yeni_link:hover {
+	color: #300;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size: 14px;
+	background-image: none;
+	display: none;
+
+#form1 table tr td {
+	font-weight: bold;
+}
+#table-font {
+	font-weight: bold;
+	font-size: 14px;
+}
+#yenni {
+	font-size: 36px;
+	text-align: left;
+	font-family: "Lucida Console", Monaco, monospace;
+}
+yenni {
+	font-size: 24px;
+}
+#size {
+	font-size: 24px;
+}
+#ust table tr td #yenni {
+	font-size: 14px;
+}
+#ust table tr td #yenni {
+	font-size: 18px;
+}
+#ust table tr td #yenni {
+	font-size: 24px;
+}
+#ust table tr td #yenni {
+	font-size: 36px;
+	font-family: "Courier New", Courier, monospace;
+}
+#ust table tr td #yenni {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+.baslik {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 24px;
+	font-style: normal;
+	color: #003277;
+}
